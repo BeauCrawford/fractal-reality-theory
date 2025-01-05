@@ -15,6 +15,12 @@ See: [Why](./docs/about/Why.md)
 - [Theory](./docs/about/Theory.md)
 - [Similar Theories](./docs/about/Similar.md)
 
+## Falsifiability
+
+See: [Falsifiability](./docs/about/Falsifiability.md)
+
+Fractal Reality Theory (FRT) maintains scientific rigor by proposing falsifiable hypotheses that align with its core principles, such as fractal dynamics, feedback loops, and informational coherence. It predicts self-similarity across scales, emergent complexity through feedback, and correspondence between micro and macro systems, all of which can be tested through interdisciplinary research in physics, neuroscience, and systems theory. By identifying where its claims could fail—such as the absence of fractal patterns, feedback-driven organization, or quantum coherence—FRT ensures it remains open to empirical validation or refutation, fostering credibility as a scientific framework rather than mere speculation.
+
 ## Hermetic Principle of Correspondence
 
 The **Hermetic Principle of Correspondence**, often expressed as *"As above, so below; as within, so without,"* applies to Fractal Reality Theory because it encapsulates the interconnectedness and self-similarity of systems across scales. In this framework, the universe operates as a macro-scale internal simulation, dynamically generating and refining its own structure, while nested entities, such as conscious systems, mirror these processes at the micro-scale. Although the reflections are not identical, they share fundamental principles like feedback loops, emergence, and informational coherence. This principle highlights the fractal-like relationship between the macrocosm and microcosm, demonstrating how universal patterns are reflected in localized systems, unifying the understanding of reality’s dynamics.
