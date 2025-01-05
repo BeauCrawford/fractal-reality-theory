@@ -21,7 +21,9 @@ See: [Falsifiability](./docs/about/Falsifiability.md)
 
 Fractal Reality Theory (FRT) maintains scientific rigor by proposing falsifiable hypotheses that align with its core principles, such as fractal dynamics, feedback loops, and informational coherence. It predicts self-similarity across scales, emergent complexity through feedback, and correspondence between micro and macro systems, all of which can be tested through interdisciplinary research in physics, neuroscience, and systems theory. By identifying where its claims could fail—such as the absence of fractal patterns, feedback-driven organization, or quantum coherence—FRT ensures it remains open to empirical validation or refutation, fostering credibility as a scientific framework rather than mere speculation.
 
-See: [Quantum Physics](./docs/foundation/Quantum-Physics.md)
+### Related
+
+- [Quantum Physics](./docs/foundation/Quantum-Physics.md)
 
 ## Ontological Containers
 
