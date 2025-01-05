@@ -21,6 +21,12 @@ See: [Falsifiability](./docs/about/Falsifiability.md)
 
 Fractal Reality Theory (FRT) maintains scientific rigor by proposing falsifiable hypotheses that align with its core principles, such as fractal dynamics, feedback loops, and informational coherence. It predicts self-similarity across scales, emergent complexity through feedback, and correspondence between micro and macro systems, all of which can be tested through interdisciplinary research in physics, neuroscience, and systems theory. By identifying where its claims could fail—such as the absence of fractal patterns, feedback-driven organization, or quantum coherence—FRT ensures it remains open to empirical validation or refutation, fostering credibility as a scientific framework rather than mere speculation.
 
+## Ontological Containers
+
+See: [Ontological Containers](./docs/ontological-containers/README.md)
+
+Ontological containers are essential for Fractal Reality Theory (FRT) as they provide a structured framework to define, organize, and evaluate the complexities of reality. By categorizing universal, objective, and subjective truths, they clarify relationships between the macrocosm and microcosm, integrate interdisciplinary insights, and emphasize the fractal interconnectedness across scales. These containers facilitate conceptual clarity, enable falsifiability by isolating testable claims, and guide further inquiry by identifying gaps and opportunities for refinement. Ultimately, they make FRT’s abstract principles accessible, systematic, and grounded in a unified model of reality.
+
 ## Hermetic Principle of Correspondence
 
 The **Hermetic Principle of Correspondence**, often expressed as *"As above, so below; as within, so without,"* applies to Fractal Reality Theory because it encapsulates the interconnectedness and self-similarity of systems across scales. In this framework, the universe operates as a macro-scale internal simulation, dynamically generating and refining its own structure, while nested entities, such as conscious systems, mirror these processes at the micro-scale. Although the reflections are not identical, they share fundamental principles like feedback loops, emergence, and informational coherence. This principle highlights the fractal-like relationship between the macrocosm and microcosm, demonstrating how universal patterns are reflected in localized systems, unifying the understanding of reality’s dynamics.
