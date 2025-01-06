@@ -6,6 +6,8 @@
 
 The [Fractal Reality Theory GPT](https://chatgpt.com/g/g-677b0054bf64819196744b46fc0bc0ad-fractal-reality-theory) explores and explains the interconnected, self-sustaining dynamics of reality through the principles of Fractal Reality Theory. Users can interact with FRT to deepen their understanding of fractal patterns, feedback loops, and the universe's evolving nature.
 
+See: [GPT](./docs/gpt/README.md)
+
 ## Description
 
 **Fractal Reality Theory (FRT)** proposes that the universe operates as a self-sustaining, recursive system where patterns and processes repeat across scales, from the smallest quantum particles to the largest cosmic structures. Like a fractal, each part reflects the dynamics of the whole, creating a nested, interconnected framework where feedback loops drive evolution, adaptation, and emergence. Whether viewed as a cosmic simulation, a network of dynamic systems, or a biological process, FRT bridges disciplines to explain how the universe builds and refines itself through simple principles that generate complexity. By understanding these principles, FRT reveals how individual components, like humans, participate in and influence the larger universal system, creating a reality that is coherent, interconnected, and continuously evolving.
