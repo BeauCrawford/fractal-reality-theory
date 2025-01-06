@@ -8,6 +8,7 @@
 
 - [What created the universe?](./questions/Universe-Creation.md)
 - [Why is there "something" rather than "nothing"?](./questions/Something-Nothing.md)
+- [How is the Universe not "locally real"?](./questions/Universe-Locally-Real.md)
 
 ---
 
