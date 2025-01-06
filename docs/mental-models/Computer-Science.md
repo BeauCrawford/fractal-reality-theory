@@ -1,5 +1,7 @@
 ### **Mental Model: Fractal Reality Theory (FRT) for a Computer Science Perspective**
 
+![](./.attachments/CS.webp)
+
 #### **Core Idea: Think of the Universe as a Recursive Program**
 From the lens of a computer science graduate, the **Fractal Reality Theory (FRT)** can be understood as a recursive, self-organizing program that operates on **feedback loops**, **information processing**, and **emergent complexity**—concepts that mirror familiar computational paradigms. Here's how you can map FRT concepts to the domain of computer science:
 

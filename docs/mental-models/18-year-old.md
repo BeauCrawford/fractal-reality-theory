@@ -1,5 +1,7 @@
 ### **Mental Model: Understanding Fractal Reality Theory (FRT) for an 18-Year-Old**
 
+![](./.attachments/18.webp)
+
 #### **Core Idea: The Universe is Like a Self-Sustaining Network**
 
 Imagine the universe as a massive, interconnected network, like the internet or a giant simulation. It’s self-organizing, dynamic, and constantly evolving, where every piece influences the whole and reflects its patterns on different levels.

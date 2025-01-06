@@ -1,5 +1,7 @@
 ### **Mental Model: Understanding Fractal Reality Theory (FRT) for a 10-Year-Old**
 
+![](./.attachments/legos.webp)
+
 #### **Core Idea: The Universe is Like a Never-Ending LEGO Set**
 
 Imagine you have a magical LEGO set. This LEGO set is super special because:
