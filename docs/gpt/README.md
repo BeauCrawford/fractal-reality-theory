@@ -4,6 +4,10 @@
 
 You can review the System Prompt for the GPT [here](./System.md).
 
+## Example Questions
+
+- [Examples](./examples/general/README.md)
+
 ## Why would I want to use the GPT?
 
 You might want to use this GPT because it is designed to assist in exploring, explaining, and applying the principles of **Fractal Reality Theory (FRT)**—a concept that connects science, metaphysics, and systems thinking in unique ways. Here are some key reasons why this GPT could be valuable for you:
