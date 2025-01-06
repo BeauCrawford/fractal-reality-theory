@@ -1,6 +1,12 @@
-# Fractal Reality Theory
+# Fractal Reality Theory (FRT)
 
 *Fractal layers of reality: self-simulating systems from the quantum to the conscious.*
+
+## Description
+
+**Fractal Reality Theory (FRT)** proposes that the universe operates as a self-sustaining, recursive system where patterns and processes repeat across scales, from the smallest quantum particles to the largest cosmic structures. Like a fractal, each part reflects the dynamics of the whole, creating a nested, interconnected framework where feedback loops drive evolution, adaptation, and emergence. Whether viewed as a cosmic simulation, a network of dynamic systems, or a biological process, FRT bridges disciplines to explain how the universe builds and refines itself through simple principles that generate complexity. By understanding these principles, FRT reveals how individual components, like humans, participate in and influence the larger universal system, creating a reality that is coherent, interconnected, and continuously evolving.
+
+See: [Mental Models](./docs/mental-models/README.md) to assist in understanding FRT.
 
 ![](./docs/.attachments/fractal-0001.webp)
 
