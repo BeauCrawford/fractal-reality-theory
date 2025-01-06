@@ -6,12 +6,13 @@
 
 ## Why?
 
-**Fractal Reality Theory (FRT)** is not a claim to novelty but a unifying framework that consolidates and integrates existing ideas from quantum physics, systems theory, neuroscience, metaphysics, and more. Its purpose is to bridge diverse disciplines, highlight common patterns, and provide a cohesive perspective on the interconnected nature of reality. By emphasizing the **Principle of Correspondence** and using fractals as a structural metaphor, FRT connects macrocosmic processes (e.g., the universe as an internal simulation) with microcosmic systems (e.g., individual consciousness). Rather than replacing existing theories like CTMU or Integral Theory, FRT complements them by organizing and contextualizing their insights, fostering a broader understanding and inviting further exploration.
+**Fractal Reality Theory (FRT)** is a unifying framework that consolidates and integrates existing ideas from quantum physics, systems theory, neuroscience, metaphysics, and more. Its purpose is to bridge diverse disciplines, highlight common patterns, and provide a cohesive perspective on the interconnected nature of reality. By emphasizing the **Principle of Correspondence** and using fractals as a structural metaphor, FRT connects macrocosmic processes (e.g., the universe as an internal simulation) with microcosmic systems (e.g., individual consciousness). Rather than replacing existing theories like CTMU or Integral Theory, FRT complements them by organizing and contextualizing their insights, fostering a broader understanding and inviting further exploration.
 
 See: [Why](./docs/about/Why.md)
 
 ### Related
 
+- [Claims](./docs/about/claims/README.md)
 - [Theory](./docs/about/Theory.md)
 - [Similar Theories](./docs/about/Similar.md)
 
