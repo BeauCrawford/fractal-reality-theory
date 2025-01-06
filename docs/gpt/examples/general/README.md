@@ -12,6 +12,11 @@
 
 ---
 
+### Koans
+
+- [If a tree falls in the woods and no conscious beings are around to hear it, does it make a sound?](./questions/Tree-Falling.md)
+- [What is the sound of one hand clapping?](./questions/One-Hand-Clapping.md)
+
 ### Reality
 
 - [What is the fundamental nature of reality, and how does it sustain itself without external intervention?](./questions/Nature-Of-Reality.md)
