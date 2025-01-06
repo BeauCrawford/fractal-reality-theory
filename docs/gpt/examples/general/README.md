@@ -8,7 +8,15 @@
 
 - [What created the universe?](./questions/Universe-Creation.md)
 - [Why is there "something" rather than "nothing"?](./questions/Something-Nothing.md)
+- [The word "Nothing" is just a word (i.e. a symbol).  What does it actually mean from the perspective of the Universe?](./questions/Nothing.md)
 - [How is the Universe not "locally real"?](./questions/Universe-Locally-Real.md)
+- [Explain the concept of an "infinite regress" as it relates to the origin of the Universe.](./questions/Infinite-Regress.md)
+
+---
+
+### Humans
+
+- [Will Humans ever understand the true nature of existence and consciousness?](./questions/Human-Understanding.md)
 
 ---
 
