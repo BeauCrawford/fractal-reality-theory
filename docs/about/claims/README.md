@@ -6,6 +6,11 @@ This document outlines the foundational claims and novel contributions of **Frac
 
 To ensure scientific rigor, each novel claim is accompanied by a **falsifiability requirement**, specifying the empirical conditions that would disprove the claim. These requirements highlight FRT's commitment to testability and open inquiry, bridging abstract principles with measurable phenomena. This document provides a systematic exploration of FRT's key ideas, offering a foundation for further research, critique, and refinement of the theory.
 
+### Related
+
+- [Deductive Arguments for Claims](./Deductive-Arguments.md)
+- [Meta Argument for Fractal Reality Theory (FRT)](./Meta-Argument.md)
+
 ## Claims
 
 ### **1. Fractal Simulation as the Core of Reality**
